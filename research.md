@@ -10,10 +10,7 @@ We aim to create a universal molecular framework, where any molecule can be pred
 We are deploying the technology we develop and **test it in the lab** to create new molecular functions.
 <br>
 <br>
-Selected publications representative of the research in the Bryant lab.
 
-<br>
-<br>
 
 # Binder design
 
