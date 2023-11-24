@@ -2,8 +2,10 @@
 layout: page
 title: About
 ---
+# We build the technology of the future.
 
-# The group.
 
-## Patrick Bryant
+# People
+
+Patrick Bryant - PI, Assistant Professor, https://www.scilifelab.se/researchers/patrick-bryant/
 <img src="./assets/patrick_portrait.jpeg" width="25%" height="25%"  />
