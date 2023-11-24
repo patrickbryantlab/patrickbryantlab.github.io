@@ -11,3 +11,7 @@ title: About
 
 Patrick Bryant - PI, Assistant Professor
 <a href="https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=sv&oi=ao"> Google Scholar
+
+
+<img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
+David (Qiuzhen) Li - Postdoc, wetlab
