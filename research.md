@@ -3,17 +3,29 @@ layout: page
 title: "Research"
 ---
 
+
+Our research tries to answer questions about the evolution of proteins and how this information can be used to create a new range of AI tools.
+<br>
+<br>
+The tools we have developed make it possible to predict the structure of interacting proteins, and to design new molecules that bind to proteins.
+<br>
+<br>
+We aim to create a universal molecular framework, where any molecule can be predicted. With this technology, the design of new molecules will be possible at the click of a button – for any application.
+<br>
+<br>
+We are deploying the technology we develop and **test it in the lab** to create new molecular functions.
+<br>
+<br>
 Selected publications representative of the research in the Bryant lab.
 
 <br>
-
 <br>
 
 # Binder design
 
 <a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
 
-<a href="https://www.nature.com/articles/s42004-023-01029-7"> Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229. 
+<a href="https://www.nature.com/articles/s42004-023-01029-7"> Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229.
 
 <br>
 
