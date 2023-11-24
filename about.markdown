@@ -7,5 +7,5 @@ title: About
 
 # People
 
-Patrick Bryant - PI, Assistant Professor, https://www.scilifelab.se/researchers/patrick-bryant/
 <img src="./assets/patrick_portrait.jpeg" width="25%" height="25%"  />
+<a href="https://www.scilifelab.se/researchers/patrick-bryant/"> Patrick Bryant - PI, Assistant Professor
