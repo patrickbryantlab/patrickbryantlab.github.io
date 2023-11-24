@@ -28,7 +28,7 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1"> Structure prediction of protein-ligand complexes from sequence information with Umol. Preprint (2023)
 
-<img src="./assets/protein_ligand.png" width="50%" height="50%"  />
+<img src="./assets/protein_ligand.png"   />
 
 <br>
 
