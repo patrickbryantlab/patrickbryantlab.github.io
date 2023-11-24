@@ -14,4 +14,9 @@ Patrick Bryant - PI, Assistant Professor
 
 
 <img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
+
+David (Qiuzhen) Li - Postdoc, wetlab
+
+<img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
+
 David (Qiuzhen) Li - Postdoc, wetlab
