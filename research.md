@@ -20,7 +20,7 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 <a href="https://www.nature.com/articles/s42004-023-01029-7"> Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229.
 
-<img src="./assets/binder_design.png" width="50%" height="50%"  />
+<img src="./assets/binder_design.jpeg" width="50%" height="50%"  />
 
 <br>
 
