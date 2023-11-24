@@ -53,5 +53,5 @@ We are deploying the technology we develop and **test it in the lab** to create 
 <a href="https://www.nature.com/articles/s41594-022-00849-w"> Akdel M, Pires DEV, Pardo EP, Jänes J, Zalevsky AO, Mészáros B, Bryant P et al. A structural biology community assessment of AlphaFold2 applications. Nat Struct Mol Biol 29, 1056–1067 (2022). https://doi.org/10.1038/s41594-022-00849-w
 
 
-
+<img src="./assets/complexes.svg" width="50%" height="50%"  />
 <br>
