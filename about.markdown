@@ -8,4 +8,6 @@ title: About
 # People
 
 <img src="./assets/patrick_portrait.jpeg" width="25%" height="25%"  />
-<a href="https://www.scilifelab.se/researchers/patrick-bryant/"> Patrick Bryant - PI, Assistant Professor
+
+Patrick Bryant - PI, Assistant Professor
+<a href="https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=sv&oi=ao"> Google Scholar
