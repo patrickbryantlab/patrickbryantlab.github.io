@@ -6,7 +6,9 @@ title: About
 
 Using the latest AI, it is possible to predict the structure of proteins from sequence information (AlphaFold2). We have taken this one step further to enable the structure prediction of interacting proteins. With reinforcement learning, we can assemble these interactions into large complexes consisting of up to 30 proteins.
 \
+\
 Although the problem of protein structure is within our grasp, the interaction partners of proteins are difficult to study. Indeed, not only proteins but many nucleic acids and other biological molecules interact with proteins and so do pharmaceuticals. Using advanced deep learning, we are developing methods to illuminate these interactions. From the trained models, we can extract insights that can be used to design new molecules for different biotechnological applications.
+\
 \
 We aim to create a universal molecular framework, where any molecule can be predicted. With this technology, the design of new molecules will be possible at the click of a button – for any application.
 
