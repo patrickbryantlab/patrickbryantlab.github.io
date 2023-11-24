@@ -18,6 +18,10 @@ We aim to create a universal molecular framework, where any molecule can be pred
 
 Patrick Bryant - PI, Assistant Professor
 <a href="https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=sv&oi=ao"> Google Scholar
+<a href="https://twitter.com/Patrick18287926"> Twitter
+<a href="https://www.linkedin.com/in/patrick-bryant-phd/"> LinkedIn
+
+
 
 
 <img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
