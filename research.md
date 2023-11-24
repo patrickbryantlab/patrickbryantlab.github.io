@@ -7,6 +7,7 @@ title: "Research"
 Our research tries to answer questions about the evolution of proteins and how this information can be used to create a new range of AI tools.
 The tools we have developed make it possible to predict the structure of protein interactions, and to design new molecules that bind to proteins.
 <br>
+<br>
 We aim to create a universal molecular framework, where any molecule can be predicted.
 We are deploying the technology we develop and **test it in the lab** to create new molecular functions.
 <br>
