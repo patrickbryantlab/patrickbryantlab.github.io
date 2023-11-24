@@ -20,11 +20,15 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 <a href="https://www.nature.com/articles/s42004-023-01029-7"> Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229.
 
+<img src="./assets/binder_design.png" width="50%" height="50%"  />
+
 <br>
 
 # Structure prediction of protein-ligand complexes
 
 <a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1"> Structure prediction of protein-ligand complexes from sequence information with Umol. Preprint (2023)
+
+<img src="./assets/protein_ligand.png" width="50%" height="50%"  />
 
 <br>
 
