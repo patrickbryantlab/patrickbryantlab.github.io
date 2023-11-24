@@ -36,7 +36,7 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 <a href="https://www.biorxiv.org/content/10.1101/2023.09.25.559256v1"> Bryant P., Noé F. Structure prediction of alternative protein conformations. Preprint (2023)
 
-<img src="./assets/alt_confs.png" width="50%" height="50%"  />
+<img src="./assets/alt_confs.png"  />
 
 <br>
 
