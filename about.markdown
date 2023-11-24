@@ -4,7 +4,7 @@ title: About
 ---
 # We build the technology of the future.
 
-Using the latest AI, it is possible to predict the structure of proteins from sequence information (AlphaFold2). We have taken this one step further to enable the structure prediction of interacting proteins. With reinforcement learning, we can assemble these interactions into large complexes consisting of up to 30 proteins.
+Using the latest AI, it is possible to predict the structure of proteins from sequence information. We have taken this one step further to enable the structure prediction of interacting proteins. With reinforcement learning, we can assemble these interactions into large complexes consisting of up to 30 proteins.
 \
 \
 Although the problem of protein structure is within our grasp, the interaction partners of proteins are difficult to study. Indeed, not only proteins but many nucleic acids and other biological molecules interact with proteins and so do pharmaceuticals. Using advanced deep learning, we are developing methods to illuminate these interactions. From the trained models, we can extract insights that can be used to design new molecules for different biotechnological applications.
@@ -27,6 +27,8 @@ Patrick Bryant - PI, Assistant Professor
 <img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
 
 Dr. David (Qiuzhen) Li - Postdoc, wetlab
+<a href="https://www.linkedin.com/in/qiuzhen-li-0bb250174/"> LinkedIn
+
 
 
 Efstathios (Stathis) Nikolaos Vlachos - PhD student, computational
