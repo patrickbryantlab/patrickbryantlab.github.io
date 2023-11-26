@@ -30,5 +30,5 @@ Dr. David (Qiuzhen) Li - Postdoc, wetlab
 <a href="https://www.linkedin.com/in/qiuzhen-li-0bb250174/"> LinkedIn
 
 
-
+<img src="./assets/ENV_portrait.jpeg" width="25%" height="25%"  />
 Efstathios (Stathis) Nikolaos Vlachos - PhD student, computational
