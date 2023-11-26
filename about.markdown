@@ -31,4 +31,5 @@ Dr. David (Qiuzhen) Li - Postdoc, wetlab
 
 
 <img src="./assets/ENV_portrait.jpeg" width="25%" height="25%"  />
+
 Efstathios (Stathis) Nikolaos Vlachos - PhD student, computational
