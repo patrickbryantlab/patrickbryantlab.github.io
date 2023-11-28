@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+
+
 # We build the technology of the future.
 
 Using the latest AI, it is possible to predict the structure of proteins from sequence information. We have taken this one step further to enable the structure prediction of interacting proteins. With reinforcement learning, we can assemble these interactions into large complexes consisting of up to 30 proteins.
@@ -11,6 +13,10 @@ Although the problem of protein structure is within our grasp, the interaction p
 \
 \
 We aim to create a universal molecular framework, where any molecule can be predicted. With this technology, the design of new molecules will be possible at the click of a button – for any application.
+
+# Location
+We are located at [SciLifeLab](https://www.scilifelab.se) and affiliated to [Stockholm University at the Department of Molecular Biosciences, The Wenner-Gren Institute](https://www.su.se/department-of-molecular-biosciences-the-wenner-gren-institute/)
+
 
 # People
 
