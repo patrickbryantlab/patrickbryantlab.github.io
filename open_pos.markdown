@@ -12,3 +12,6 @@ We will hire at least one additional postdoc in 2024 (salary+full benefits for 2
 
 # Master thesis projects (earliest start date autumn 2024)
 Contact Patrick Bryant for potential projects. Include a short description of yourself and your research interests.
+
+# Internships (unpaid)
+Contact Patrick Bryant. Include a short CV, github and a project proposal.
