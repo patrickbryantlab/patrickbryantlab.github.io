@@ -6,7 +6,7 @@ title: "Software"
 
 # Open source software
 
-<img src="./assets/software.jpeg" width="50%" height="50%"  />
+<img src="./assets/software.jpg" width="50%" height="50%"  />
 
 <a href="https://github.com/patrickbryant1/EvoBind"> EvoBind: peptide binder design.
 
