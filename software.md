@@ -6,6 +6,7 @@ title: "Software"
 
 # Open source software
 
+<img src="./assets/software.jpeg" width="50%" height="50%"  />
 
 <a href="https://github.com/patrickbryant1/EvoBind"> EvoBind: peptide binder design.
 
@@ -16,7 +17,7 @@ title: "Software"
 <a href="https://github.com/patrickbryant1/Cfold"> Cfold: structure prediction of alternative protein conformations
 
 
-<a href="https://github.com/patrickbryant1/SpeedPPI"> SpeedPPI - pairwise interactions
+<a href="https://github.com/patrickbryant1/SpeedPPI"> SpeedPPI: pairwise interactions
 
 
-<a href="https://github.com/patrickbryant1/MoLPC"> MoLPC - large complex assembly
+<a href="https://github.com/patrickbryant1/MoLPC"> MoLPC: large complex assembly
