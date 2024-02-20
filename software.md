@@ -4,8 +4,6 @@ title: "Software"
 ---
 
 
-# Open source software
-
 <img src="./assets/software.jpg"  />
 
 <a href="https://github.com/patrickbryant1/SpeedPPI"> SpeedPPI: pairwise interactions
