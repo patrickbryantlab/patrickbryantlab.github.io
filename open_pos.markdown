@@ -8,7 +8,7 @@ title: Open positions
 # Postdoc positions
 <a href="https://www.su.se/english/about-the-university/work-at-su/available-jobs"> Postdoc positions will be advertised here
 
-# Master thesis projects
+# Master thesis projects (unpaid)
 Contact Patrick Bryant for potential projects. Include a short description of yourself and your research interests.
 
 # Internships (unpaid)
