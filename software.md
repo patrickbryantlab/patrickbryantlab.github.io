@@ -4,16 +4,12 @@ title: "Software"
 ---
 
 
-<img src="./assets/software.jpg"  />
+EvoBind - peptide binder design: https://github.com/patrickbryant1/EvoBind
 
-<a href="https://github.com/patrickbryant1/SpeedPPI"> SpeedPPI: pairwise interactions
+Umol- structure prediction of protein-ligand complexes: https://github.com/patrickbryant1/Umol
 
+Cfold - structure prediction of alternative protein conformations: https://github.com/patrickbryant1/Cfold
 
-<a href="https://github.com/patrickbryant1/MoLPC"> MoLPC: large complex assembly
+MoLPC - large protein complex assembly: https://github.com/patrickbryant1/MoLPC
 
-
-<a href="https://github.com/patrickbryant1/EvoBind"> EvoBind: peptide binder design.
-
-<a href="https://github.com/patrickbryant1/Cfold"> Cfold: structure prediction of alternative protein conformations
-
-<a href="https://github.com/patrickbryant1/Umol"> Umol: structure prediction of protein-ligand complexes
+Pairwise protein interactions: https://github.com/patrickbryant1/SpeedPPI"
