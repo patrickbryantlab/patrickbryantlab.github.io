@@ -6,7 +6,7 @@ title: "Software"
 
 EvoBind - peptide binder design: <https://github.com/patrickbryant1/EvoBind>
 
-Umol- structure prediction of protein-ligand complexes: <https://github.com/patrickbryant1/Umol>
+Umol - structure prediction of protein-ligand complexes: <https://github.com/patrickbryant1/Umol>
 
 Cfold - structure prediction of alternative protein conformations: <https://github.com/patrickbryant1/Cfold>
 
