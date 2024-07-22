@@ -16,11 +16,22 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 # Binder design
 
-<a href="https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1.full.pdf"> Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
+Li Q, Vlachos E.N., Bryant P. Design of linear and cyclic peptide binders of different lengths only from a protein target sequence. bioRxiv. 2024. p. 2024.06.20.599739. doi:10.1101/2024.06.20.599739
+[Paper](https://www.biorxiv.org/content/10.1101/2024.06.20.599739v1)
+[Code](https://github.com/patrickbryant1/EvoBind)
 
-<a href="https://www.nature.com/articles/s42004-023-01029-7"> Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229.
+Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. 2022. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
+[Paper](https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1)
 
-<img src="./assets/binder_design.jpeg" width="50%" height="50%"  />
+Bryant P, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. 2023; 6: 229.
+[Paper](https://www.nature.com/articles/s42004-023-01029-7)
+
+
+<p align="center">
+  <img alt="Linear" src="./assets/linear.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Cyclic" src="./assets/cyclic.gif" width="45%">
+</p>
 
 <br>
 
