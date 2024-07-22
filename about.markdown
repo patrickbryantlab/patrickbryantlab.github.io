@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
+title: Team
 ---
 
 
 # We build the technology of the future.
 
-Using the latest AI, it is possible to predict the structure of proteins from sequence information. We have taken this one step further to enable the structure prediction of interacting proteins. With reinforcement learning, we can assemble these interactions into large complexes consisting of up to 30 proteins.
+Now, it is possible to predict the structure of proteins and protein complexes directly from sequence information.
 \
+However, how to use these new tools in the best way is not clear.
+What we really want to predict is not protein structure, but function.
+To be perfectly honest, we rather want to design new functions.
 \
-Although the problem of protein structure is within our grasp, the interaction partners of proteins are difficult to study. Indeed, not only proteins but many nucleic acids and other biological molecules interact with proteins and so do pharmaceuticals. Using advanced deep learning, we are developing methods to illuminate these interactions. From the trained models, we can extract insights that can be used to design new molecules for different biotechnological applications.
+Almost everything that happens in a cell is a result of a protein interaction.
+Proteins interact with each other to form complexes, with a myriad of molecules for signalling and regulation
+and with substrates to catalyse enzymatic reactions.
 \
-\
-We aim to create a universal molecular framework, where any molecule can be predicted. With this technology, the design of new molecules will be possible at the click of a button – for any application.
+Protein function is therefore directly linked to protein interactions.
+We are developing tools - and applying them - to design and study protein interactions
+for diverse applications. Today we can bind <1% of human proteins, let's make this 10% - together.
 
 # Location
 We are located at [SciLifeLab](https://www.scilifelab.se) and affiliated to [Stockholm University at the Department of Molecular Biosciences, The Wenner-Gren Institute](https://www.su.se/department-of-molecular-biosciences-the-wenner-gren-institute/)
