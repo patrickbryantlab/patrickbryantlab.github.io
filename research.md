@@ -28,9 +28,9 @@ Bryant P, Elofsson A. EvoBind: in silico directed evolution of peptide binders w
 
 
 <p align="center">
-  <img alt="Linear" src="./assets/linear.gif" width="100%">
+  <img alt="Linear" src="./assets/linear.gif" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Cyclic" src="./assets/cyclic.gif" width="100%">
+  <img alt="Cyclic" src="./assets/cyclic.gif" width="45%">
 </p>
 
 <br>
