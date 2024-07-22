@@ -26,7 +26,9 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 # Structure prediction of protein-ligand complexes
 
-<a href="https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1"> Structure prediction of protein-ligand complexes from sequence information with Umol. Preprint (2023)
+Bryant, P., Kelkar, A., Guljas, A. Clementi, C. and Noé F. Structure prediction of protein-ligand complexes from sequence information with Umol. Nat Commun 15, 4536 (2024). https://doi.org/10.1038/s41467-024-48837-6
+[Paper](https://www.nature.com/articles/s41467-024-48837-6)
+[Code](https://github.com/patrickbryant1/Umol)
 
 <img src="./assets/protein_ligand.png"   />
 
