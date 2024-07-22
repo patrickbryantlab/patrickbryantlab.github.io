@@ -12,4 +12,4 @@ Cfold - structure prediction of alternative protein conformations: <https://gith
 
 MoLPC - large protein complex assembly: <https://github.com/patrickbryant1/MoLPC>
 
-Pairwise protein interactions: <https://github.com/patrickbryant1/SpeedPPI">
+Pairwise protein interactions: <https://github.com/patrickbryant1/SpeedPPI>
