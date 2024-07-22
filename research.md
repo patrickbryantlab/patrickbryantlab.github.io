@@ -70,7 +70,7 @@ Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of
 [Code](https://gitlab.com/ElofssonLab/FoldDock)
 [Better code](https://github.com/patrickbryant1/SpeedPPI)
 
-Burke, D.F., **Bryant, P.**, Barrio-Hernandez, I. et al. Towards a structurally resolved human protein interaction network. Nat Struct Mol Biol (**2023**). https://doi.org/10.1038/s41594-022-00910-8
+Burke, D.F.^, **Bryant, P.^**, Barrio-Hernandez, I.^ et al. Towards a structurally resolved human protein interaction network. Nat Struct Mol Biol (**2023**). https://doi.org/10.1038/s41594-022-00910-8
 [Paper](https://www.nature.com/articles/s41594-022-00910-8)
 
 
