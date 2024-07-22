@@ -41,15 +41,17 @@ Bryant, P., Kelkar, A., Guljas, A. Clementi, C. and Noé F. Structure prediction
 [Paper](https://www.nature.com/articles/s41467-024-48837-6)
 [Code](https://github.com/patrickbryant1/Umol)
 
-<img src="./assets/protein_ligand.png"   />
+<img src="./assets/Umol.svg"   />
 
 <br>
 
 # Structure prediction of alternative protein conformations
 
-<a href="https://www.biorxiv.org/content/10.1101/2023.09.25.559256v1"> Bryant P., Noé F. Structure prediction of alternative protein conformations. Preprint (2023)
+Bryant P., Noé F. Structure prediction of alternative protein conformations. Preprint (2023)
+[Paper](https://www.biorxiv.org/content/10.1101/2023.09.25.559256v1)
+[Code](https://github.com/patrickbryant1/Cfold/tree/master)
 
-<img src="./assets/alt_confs.png"  />
+<img src="./assets/Cfold.mov"  />
 
 <br>
 
