@@ -6,7 +6,7 @@ title: Team
 
 # We build the technology of the future.
 
-Now, it is possible to predict the structure of proteins and protein complexes directly from sequence information.
+Now, it is possible to predict the structure of proteins and protein complexes directly from amino acid sequence information.
 However, how to use these new tools in the best way is not clear.
 What we really want to predict is not protein structure, but function.
 To be perfectly honest, we rather want to design new functions.
@@ -16,7 +16,7 @@ Almost everything that happens in a cell is a result of a protein interaction.
 Proteins interact with each other to form complexes, with a myriad of molecules for signalling and regulation
 and with substrates to catalyse enzymatic reactions. Protein function is therefore directly linked to protein interactions.
 We are developing tools - and applying them - to design and study protein interactions
-for diverse applications. **Today we can bind <1% of human proteins, let's make this 10% - together.**
+for diverse applications.
 
 # Location
 We are located at [SciLifeLab](https://www.scilifelab.se) and affiliated to [Stockholm University at the Department of Molecular Biosciences, The Wenner-Gren Institute](https://www.su.se/department-of-molecular-biosciences-the-wenner-gren-institute/)
