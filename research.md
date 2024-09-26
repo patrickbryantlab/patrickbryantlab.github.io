@@ -57,7 +57,7 @@ Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat
 
 # Structure prediction of protein complexes
 
-Bryant P, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
+**Bryant P**, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012253)
 [Code](https://github.com/patrickbryant1/AFProfile)
 
