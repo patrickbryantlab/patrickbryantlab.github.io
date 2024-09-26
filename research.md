@@ -47,8 +47,8 @@ Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of
 
 # Structure prediction of alternative protein conformations
 
-Bryant P, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
-[Paper](https://www.biorxiv.org/content/10.1101/2023.09.25.559256v1)
+Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat Commun 15, 7328 (**2024**).
+[Paper](https://www.nature.com/articles/s41467-024-51507-2)
 [Code](https://github.com/patrickbryant1/Cfold/tree/master)
 
 <img src="./assets/Cfold.mov"  />
@@ -57,7 +57,7 @@ Bryant P, Noé F. Improved protein complex prediction with AlphaFold-multimer by
 
 # Structure prediction of protein complexes
 
-**Bryant P.**, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. Preprint (**2023**)
+Bryant P, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012253)
 [Code](https://github.com/patrickbryant1/AFProfile)
 
