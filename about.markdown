@@ -46,14 +46,14 @@ Efstathios (Stathis) Nikolaos Vlachos - PhD student, computational
 
 
 
-<img src="./assets/Rebecca.jpg" width="25%" height="25%"  />
+<img src="./assets/Diandra.jpeg" width="25%" height="25%"  />
 
-Diandra Daumiller - Master studene, computational
+Diandra Daumiller - Master student, computational
 <a href="https://www.linkedin.com/in/diandra-daumiller-9114a5340/"> LinkedIn
 
 
 
-<img src="./assets/Diandra.jpeg" width="25%" height="25%"  />
+<img src="./assets/Rebecca.jpg" width="25%" height="25%"  />
 
 Dr. Rebecca Riddle - Postdoc, wetlab
 <a href="https://www.linkedin.com/in/rebecca-riddle-45458210a/"> LinkedIn
