@@ -51,7 +51,7 @@ Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat
 [Paper](https://www.nature.com/articles/s41467-024-51507-2)
 [Code](https://github.com/patrickbryant1/Cfold/tree/master)
 
-<img src="./assets/Cfold.mov"  />
+<img src="./assets/alt_confs.png"  />
 
 <br>
 
