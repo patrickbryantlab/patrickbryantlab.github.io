@@ -16,6 +16,14 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 # Binder design
 
+Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
+[Paper](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
+[Code](https://gitlab.com/patrickbryant1/gp41)
+
+<p align="center">
+  <img alt="gp41" src="./assets/gp41.gif" width="45%">
+</p>
+
 Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of different lengths only from a protein target sequence. bioRxiv. **2024**. p. 2024.06.20.599739. doi:10.1101/2024.06.20.599739
 [Paper](https://www.biorxiv.org/content/10.1101/2024.06.20.599739v1)
 [Code](https://github.com/patrickbryant1/EvoBind)
@@ -56,6 +64,11 @@ Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat
 <br>
 
 # Structure prediction of protein complexes
+
+Saluri M, Landreh M, **Bryant P.** AI-first structural identification of pathogenic protein targets. bioRxiv. (preprint, 2024). p. 2024.12.12.628104
+doi: https://doi.org/10.1101/2024.12.12.628104
+[Paper](https://www.biorxiv.org/content/10.1101/2024.12.12.628104v1)
+[Code](https://gitlab.com/patrickbryant1/hpopt)
 
 **Bryant P**, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012253)
