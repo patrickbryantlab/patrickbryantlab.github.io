@@ -15,7 +15,7 @@ We are deploying the technology we develop and **test it in the lab** to create 
 
 
 
-# Structure prediction and design of proteins with noncanonical amino acids.
+# Noncanonical Amino Acids
 
 RareFold is a breakthrough deep learning model that accurately predicts protein structures with noncanonical amino acids and enables the design of high-affinity peptide binders (both linear and cyclic) through its EvoBindRare framework. Expanding beyond the 20 standard amino acids, RareFold opens new possibilities for therapeutic design with enhanced stability, specificity, and immune evasion.
 
