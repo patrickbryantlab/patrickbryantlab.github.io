@@ -14,6 +14,22 @@ We are deploying the technology we develop and **test it in the lab** to create 
 <br>
 
 
+
+# Structure prediction and design of proteins with noncanonical amino acids.
+
+RareFold is a breakthrough deep learning model that accurately predicts protein structures with noncanonical amino acids and enables the design of high-affinity peptide binders (both linear and cyclic) through its EvoBindRare framework. Expanding beyond the 20 standard amino acids, RareFold opens new possibilities for therapeutic design with enhanced stability, specificity, and immune evasion.
+
+<p align="center">
+  <img alt="Linear_rare" src="./assets/linear_rare.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Cyclic_rare" src="./assets/cyclic_rare.gif" width="45%">
+</p>
+
+Li Q, Daumiller D, Bryant P. RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. 2025. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846
+[Paper](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
+[Code](https://github.com/patrickbryant1/RareFold)
+
+
 # Binder design
 
 Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
