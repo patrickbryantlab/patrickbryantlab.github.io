@@ -34,7 +34,7 @@ Patrick Bryant - PI, Assistant Professor
 
 
 
-<img src="./assets/david_portrait.jpeg" width="25%" height="25%"  />
+<img src="./assets/david_portrait_new.jpeg" width="25%" height="25%"  />
 
 Dr. David (Qiuzhen) Li - Postdoc, wetlab
 <a href="https://www.linkedin.com/in/qiuzhen-li-0bb250174/"> LinkedIn
