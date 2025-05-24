@@ -24,7 +24,7 @@ We are located at [SciLifeLab](https://www.scilifelab.se) and affiliated to [Sto
 
 # People
 
-<img src="./assets/patrick_portrait.jpeg" width="25%" height="25%"  />
+<img src="./assets/patrick_portrait.png" width="25%" height="25%"  />
 
 Patrick Bryant - PI, Assistant Professor
 <a href="https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=sv&oi=ao"> Google Scholar
