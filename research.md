@@ -29,8 +29,21 @@ Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of pr
 [Paper](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
 [Code](https://github.com/patrickbryant1/RareFold)
 
+# Agonist design
 
-# Binder design
+Li Q, Wiita E, Helleday T, **Bryant P.**
+Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R.
+bioRxiv. 2025. p. 2025.06.06.658268.
+doi: https://doi.org/10.1101/2025.06.06.658268
+[Paper](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
+[Code](https://github.com/patrickbryant1/EvoBind)
+
+<p align="center">
+  <img alt="GCGR" src="./assets/animation_gcgr.gif" width="45%">
+</p>
+
+
+# Inhibitor design
 
 Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
 [Paper](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
@@ -39,6 +52,8 @@ Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Sing
 <p align="center">
   <img alt="gp41" src="./assets/gp41.gif" width="45%">
 </p>
+
+# Binder design
 
 Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of different lengths only from a protein target sequence. bioRxiv. **2024**. p. 2024.06.20.599739. doi:10.1101/2024.06.20.599739
 [Paper](https://www.biorxiv.org/content/10.1101/2024.06.20.599739v1)
