@@ -3,6 +3,7 @@ layout: page
 title: "Software"
 ---
 
+RareFold - structure prediction and design of proteins with noncanonical amino acids: <https://github.com/patrickbryant1/RareFold>
 
 EvoBind - peptide binder design: <https://github.com/patrickbryant1/EvoBind>
 
