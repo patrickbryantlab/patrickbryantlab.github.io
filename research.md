@@ -25,7 +25,7 @@ RareFold is a breakthrough deep learning model that accurately predicts protein 
   <img alt="Cyclic_rare" src="./assets/cyclic_rare.gif" width="45%">
 </p>
 
-Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. 2025. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846
+Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. **2025**. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846
 [Paper](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
 [Code](https://github.com/patrickbryant1/RareFold)
 
@@ -33,7 +33,7 @@ Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of pr
 
 Li Q, Wiita E, Helleday T, **Bryant P.**.
 Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R.
-bioRxiv. 2025. p. 2025.06.06.658268.
+bioRxiv. **2025**. p. 2025.06.06.658268.
 doi: https://doi.org/10.1101/2025.06.06.658268
 [Paper](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
 [Code](https://github.com/patrickbryant1/EvoBind)
@@ -45,7 +45,7 @@ doi: https://doi.org/10.1101/2025.06.06.658268
 
 # Inhibitor design
 
-Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
+Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. **2025**. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
 [Paper](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
 [Code](https://gitlab.com/patrickbryant1/gp41)
 
@@ -86,7 +86,7 @@ Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of
 
 # Structure prediction of alternative protein conformations
 
-Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat Commun 15, 7328 (**2024**).
+**Bryant P**, Noé F. Structure prediction of alternative protein conformations. Nat Commun 15, 7328 (**2024**).
 [Paper](https://www.nature.com/articles/s41467-024-51507-2)
 [Code](https://github.com/patrickbryant1/Cfold/tree/master)
 
@@ -96,7 +96,7 @@ Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat
 
 # Structure prediction of protein complexes
 
-Saluri M, Landreh M, Bryant P (2025) AI-first structural identification of pathogenic protein target interfaces. PLoS Comput Biol 21(6): e1013168. https://doi.org/10.1371/journal.pcbi.1013168
+Saluri M, Landreh M, **Bryant P** (**2025**) AI-first structural identification of pathogenic protein target interfaces. PLoS Comput Biol 21(6): e1013168. https://doi.org/10.1371/journal.pcbi.1013168
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013168)
 [Code](https://gitlab.com/patrickbryant1/hpopt)
 
