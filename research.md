@@ -31,7 +31,7 @@ Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of pr
 
 # Agonist design
 
-Li Q, Wiita E, Helleday T, **Bryant P.**.
+Li Q, Wiita E, Helleday T, **Bryant P.**
 Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R.
 bioRxiv. **2025**. p. 2025.06.06.658268.
 doi: https://doi.org/10.1101/2025.06.06.658268
