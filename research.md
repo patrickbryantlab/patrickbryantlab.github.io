@@ -31,7 +31,7 @@ Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of pr
 
 # Agonist design
 
-Li Q, Wiita E, Helleday T, **Bryant P.**
+Li Q, Wiita E, Helleday T, **Bryant P.**.
 Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R.
 bioRxiv. 2025. p. 2025.06.06.658268.
 doi: https://doi.org/10.1101/2025.06.06.658268
@@ -96,9 +96,8 @@ Bryant P, Noé F. Structure prediction of alternative protein conformations. Nat
 
 # Structure prediction of protein complexes
 
-Saluri M, Landreh M, **Bryant P.** AI-first structural identification of pathogenic protein targets. bioRxiv. (preprint, 2024). p. 2024.12.12.628104
-doi: https://doi.org/10.1101/2024.12.12.628104
-[Paper](https://www.biorxiv.org/content/10.1101/2024.12.12.628104v1)
+Saluri M, Landreh M, Bryant P (2025) AI-first structural identification of pathogenic protein target interfaces. PLoS Comput Biol 21(6): e1013168. https://doi.org/10.1371/journal.pcbi.1013168
+[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013168)
 [Code](https://gitlab.com/patrickbryant1/hpopt)
 
 **Bryant P**, Noé F. Improved protein complex prediction with AlphaFold-multimer by denoising the MSA profile. PLoS Comput Biol. (**2024**);20: e1012253.
