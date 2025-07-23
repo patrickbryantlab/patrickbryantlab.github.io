@@ -55,15 +55,12 @@ Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Sing
 
 # Binder design
 
-Li Q, Vlachos E.N., **Bryant P.** Design of linear and cyclic peptide binders of different lengths only from a protein target sequence. bioRxiv. **2024**. p. 2024.06.20.599739. doi:10.1101/2024.06.20.599739
-[Paper](https://www.biorxiv.org/content/10.1101/2024.06.20.599739v1)
+Li, Q., Vlachos, E.N. & **Bryant, P.** Design of linear and cyclic peptide binders from protein sequence information. Commun Chem 8, 211 (**2025**). https://doi.org/10.1038/s42004-025-01601-3
+[Paper](https://www.nature.com/articles/s42004-025-01601-3)
 [Code](https://github.com/patrickbryant1/EvoBind)
 
-**Bryant P.**, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. **2023**; 6: 229.
+**Bryant P.**, Elofsson A. Peptide binder design with inverse folding and protein structure prediction. Communications Chemistry. (**2023**); 6: 229.
 [Paper](https://www.nature.com/articles/s42004-023-01029-7)
-
-**Bryant P.**, Elofsson A. EvoBind: in silico directed evolution of peptide binders with AlphaFold. bioRxiv. **2022**. p. 2022.07.23.501214. doi:10.1101/2022.07.23.501214
-[Paper](https://www.biorxiv.org/content/10.1101/2022.07.23.501214v1)
 
 
 <p align="center">
