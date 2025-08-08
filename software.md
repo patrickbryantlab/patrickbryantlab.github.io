@@ -19,14 +19,14 @@ EvoBind - peptide binder design: <https://github.com/patrickbryant1/EvoBind>
 
 
 Cfold - structure prediction of alternative protein conformations: <https://github.com/patrickbryant1/Cfold>
-<p align="center">
+<p>
 <img src="./assets/Cfold.mov" width="45%"/>
 </p>
 
 AFProfile - Denoising the MSA profile: <https://github.com/patrickbryant1/AFProfile>
-<p align="center">
-<img src="./assets/AFP.svg" width="45%"/>
-</p>
+
+<img src="./assets/AFP.svg">
+
 
 MoLPC - large protein complex assembly: <https://github.com/patrickbryant1/MoLPC>
 <p align="center">
