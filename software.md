@@ -26,5 +26,8 @@ Cfold - structure prediction of alternative protein conformations: <https://gith
 </p>
 
 MoLPC - large protein complex assembly: <https://github.com/patrickbryant1/MoLPC>
+<p align="center">
+<img src="./assets/proteasome.gif" width="45%"/>
+</p>
 
 Pairwise protein interactions: <https://github.com/patrickbryant1/SpeedPPI>
