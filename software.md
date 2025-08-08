@@ -3,7 +3,7 @@ layout: page
 title: "Software"
 ---
 
-RareFold - noncanonical amino acids: <https://github.com/patrickbryant1/RareFold>
+#RareFold - noncanonical amino acids: <https://github.com/patrickbryant1/RareFold>
 <p align="center">
   <img alt="Linear_rare" src="./assets/linear_rare.gif" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
