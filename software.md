@@ -19,7 +19,7 @@ EvoBind - peptide binder design: <https://github.com/patrickbryant1/EvoBind>
 
 
 Cfold - structure prediction of alternative protein conformations: <https://github.com/patrickbryant1/Cfold>
-<p>
+<p align="center">
 <img src="./assets/Cfold.mov" width="45%"/>
 </p>
 
