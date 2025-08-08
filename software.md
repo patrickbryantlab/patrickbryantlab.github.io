@@ -23,6 +23,11 @@ Cfold - structure prediction of alternative protein conformations: <https://gith
 <img src="./assets/Cfold.mov" width="45%"/>
 </p>
 
+AFProfile - Denoising the MSA profile: <https://github.com/patrickbryant1/AFProfile>
+<p align="center">
+<img src="./assets/AFP.svg" width="45%"/>
+</p>
+
 MoLPC - large protein complex assembly: <https://github.com/patrickbryant1/MoLPC>
 <p align="center">
 <img src="./assets/proteasome.gif" width="45%"/>
