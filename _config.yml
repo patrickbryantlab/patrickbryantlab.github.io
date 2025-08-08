@@ -1,7 +1,7 @@
 title: Patrick Bryant's research lab
 email:  patrick.bryant@scilifelab.se
 description: >- # this means to ignore newlines until "baseurl:"
-    Information about ongoing research, people and activities from the lab.
+    We build the technology of the future.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  patrickbryant1
