@@ -12,16 +12,17 @@ RareFold - structure prediction and design of proteins with noncanonical amino a
 
 EvoBind - peptide binder design: <https://github.com/patrickbryant1/EvoBind>
 <p align="center">
-  <img alt="GCGR" src="./assets/animation_gcgr.gif" width="45%">
+<img alt="GCGR" src="./assets/animation_gcgr.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="gp41" src="./assets/gp41.gif" width="45%">
 </p>
+
 
 Umol - structure prediction of protein-ligand complexes: <https://github.com/patrickbryant1/Umol>
 
 Cfold - structure prediction of alternative protein conformations: <https://github.com/patrickbryant1/Cfold>
 <p align="center">
 <img src="./assets/Cfold.mov" width="45%"/>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="gp41" src="./assets/gp41.gif" width="45%">
 </p>
 
 MoLPC - large protein complex assembly: <https://github.com/patrickbryant1/MoLPC>
