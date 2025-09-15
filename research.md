@@ -25,8 +25,8 @@ RareFold is a breakthrough deep learning model that accurately predicts protein 
   <img alt="Cyclic_rare" src="./assets/cyclic_rare.gif" width="45%">
 </p>
 
-Li Q, Daumiller D, **Bryant P.** RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. **2025**. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846
-[Paper](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
+Li Q, Daumiller D, Zuo F, Marcotte H, Pan-Hammarstrom Q and **Bryant P.** RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. **2025**. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846
+[Paper](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v2)
 [Code](https://github.com/patrickbryant1/RareFold)
 
 # Agonist design
