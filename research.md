@@ -14,6 +14,7 @@ We are deploying the technology we develop and **test it in the lab** to create 
 <br>
 
 # Agonist Design Beyond Natural Amino Acids
+By transfer learning from RareFold on high-quality structurtes from GPCRdb, we can learn how to incorporate noncanonical amino acids (NCAAs) seen in RareFold to the structure prediction of GPCRs without ever having seen NCAA-based GPCR modulators. This creates possibilities for new chemistry, immune evasion and degradation resistance.
 
 Li Q, Helleday T, **Bryant P**. RareFoldGPCR: Agonist Design Beyond Natural Amino Acids. bioRxiv 2025.10.01.679733; doi:10.1101/2025.10.01.679733
 [Paper](https://www.biorxiv.org/content/10.1101/2025.10.01.679733v1)
