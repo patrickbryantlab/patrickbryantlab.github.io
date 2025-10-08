@@ -36,11 +36,11 @@ Patrick Bryant - PI, Assistant Professor
 
 <img src="./assets/david_portrait_new.jpeg" width="25%" height="25%"  />
 
-Dr. David (Qiuzhen) Li - Postdoc, wetlab
+Dr. David (Qiuzhen) Li - Postdoc
 <a href="https://www.linkedin.com/in/qiuzhen-li-0bb250174/"> LinkedIn
 
 
 <img src="./assets/Diandra.jpeg" width="25%" height="25%"  />
 
-Diandra Daumiller - Master student, computational
+Diandra Daumiller - PhD student
 <a href="https://www.linkedin.com/in/diandra-daumiller-9114a5340/"> LinkedIn
