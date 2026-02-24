@@ -3,6 +3,14 @@ layout: page
 title: "Software"
 ---
 
+
+https://github.com/patrickbryant1/RareFoldGPCR
+
+
+**SHE** - Proteome-wide structural phylogeny in Eukarya: <https://she-app.serve.scilifelab.se/>
+
+**RareFoldGPCR** - Agonists with noncanonical amino acids: <https://github.com/patrickbryant1/RareFoldGPCR>
+
 **RareFold** - noncanonical amino acids: <https://github.com/patrickbryant1/RareFold>
 <p align="center">
   <img alt="Linear_rare" src="./assets/linear_rare.gif" width="45%">
