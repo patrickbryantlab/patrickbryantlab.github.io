@@ -10,7 +10,7 @@ The tools we have developed make it possible to predict the structure of protein
 <br>
 We aim to create a universal molecular framework, where any molecule can be predicted.
 We are deploying the technology we develop and **test it in the lab** to create new molecular functions to improve diagnostics and treat diseases.
-We work across disease modalities: \
+We work across disease modalities:
 - Metabolic Disease
 - Cancer
 - Cholesterol/Heart health
