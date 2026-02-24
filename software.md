@@ -4,12 +4,9 @@ title: "Software"
 ---
 
 
-https://github.com/patrickbryant1/RareFoldGPCR
+**SHE** - The Structural History of Eukarya: <https://she-app.serve.scilifelab.se/>
 
-
-**SHE** - Proteome-wide structural phylogeny in Eukarya: <https://she-app.serve.scilifelab.se/>
-
-**RareFoldGPCR** - Agonists with noncanonical amino acids: <https://github.com/patrickbryant1/RareFoldGPCR>
+**RareFoldGPCR** - Agonist design with noncanonical amino acids: <https://github.com/patrickbryant1/RareFoldGPCR>
 
 **RareFold** - noncanonical amino acids: <https://github.com/patrickbryant1/RareFold>
 <p align="center">
