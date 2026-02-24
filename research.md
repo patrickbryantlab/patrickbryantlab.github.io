@@ -9,9 +9,23 @@ The tools we have developed make it possible to predict the structure of protein
 <br>
 <br>
 We aim to create a universal molecular framework, where any molecule can be predicted.
-We are deploying the technology we develop and **test it in the lab** to create new molecular functions to improve diagnostics and treat diseases such as **cancer**.
+We are deploying the technology we develop and **test it in the lab** to create new molecular functions to improve diagnostics and treat diseases.
+We work across disease modalities: \
+- Metabolic Disease
+- Cancer
+- Cholesterol/Heart health
+- Virus (HIV, Herpes, Noro)
+- Inflammation
 <br>
 <br>
+
+# The Structural History of Eukarya
+Comparative genomics has traditionally relied on sequence-based markers, yet the global evolutionary landscape of protein architecture remains largely unexplored. We present the Structural History of Eukarya (SHE), a phylogeny derived from all-vs-all structural comparisons of 1,542 eukaryotic proteomes, encompassing nearly 300 trillion protein-protein alignments. SHE is freely accessible as an interactive portal: https://she-app.serve.scilifelab.se/
+<p align="center">
+  <img alt="SHE" src="./assets/SHE.svg" width="45%">
+</p>
+
+
 
 # Agonist Design Beyond Natural Amino Acids
 By transfer learning from RareFold on high-quality structurtes from GPCRdb, we can learn how to incorporate noncanonical amino acids (NCAAs) seen in RareFold to the structure prediction of GPCRs without ever having seen NCAA-based GPCR modulators. This creates possibilities for new chemistry, immune evasion and degradation resistance.
@@ -23,7 +37,6 @@ Li Q, Helleday T and **Bryant P**. RareFoldGPCR: Agonist Design Beyond Natural A
 [Code](https://github.com/patrickbryant1/RareFoldGPCR)
 
 # Noncanonical Amino Acids
-
 RareFold is a breakthrough deep learning model that accurately predicts protein structures with noncanonical amino acids and enables the design of high-affinity peptide binders (both linear and cyclic) through its EvoBindRare framework. Expanding beyond the 20 standard amino acids, RareFold opens new possibilities for therapeutic design with enhanced stability, specificity, and immune evasion.
 
 <p align="center">
