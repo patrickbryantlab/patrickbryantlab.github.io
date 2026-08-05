@@ -36,3 +36,9 @@ Patrick Bryant - PI, Assistant Professor
 
 Diandra Daumiller - PhD student
 <a href="https://www.linkedin.com/in/diandra-daumiller-9114a5340/"> LinkedIn
+
+
+<img src="./assets/Lidia.jpeg" width="25%" height="25%"  />
+
+Lidia Gómez Lucas - Postdoc
+<a href="https://se.linkedin.com/in/lidia-gomez-lucas-phd-967a94373"> LinkedIn
