@@ -20,7 +20,10 @@ We work across disease modalities:
 <br>
 
 # The Structural History of Eukarya
-Comparative genomics has traditionally relied on sequence-based markers, yet the global evolutionary landscape of protein architecture remains largely unexplored. We present the Structural History of Eukarya (SHE), a phylogeny derived from all-vs-all structural comparisons of 1,542 eukaryotic proteomes, encompassing nearly 300 trillion protein-protein alignments. SHE is freely accessible as an interactive portal: https://she-app.serve.scilifelab.se/
+Comparative genomics has traditionally relied on sequence-based markers, yet the global evolutionary landscape of protein architecture remains largely unexplored. We present the Structural History of Eukarya (SHE), a phylogeny derived from all-vs-all structural comparisons of 1,542 eukaryotic proteomes, encompassing nearly 300 trillion protein-protein alignments. SHE is freely accessible as an [interactive web portal](https://she-app.serve.scilifelab.se/)
+
+Qiuzhen Li, Diandra Daumiller, Patrick Bryant: The structural History of Eukarya. bioRxiv 2026.02.04.703859; doi: https://doi.org/10.64898/2026.02.04.703859
+[Paper](https://www.biorxiv.org/content/10.64898/2026.02.04.703859v1)
 
 <p align="left">
   <img alt="SHE" src="./assets/SHE.svg" width="45%">
