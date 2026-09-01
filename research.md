@@ -27,7 +27,7 @@ De novo Design of Macrocyclic Molecular Glues. Andra Brunner, Krzysztof Wierbilo
 [Code](https://github.com/patrickbryant1/EvoBind-multimer)
 
 <p align="center">
-  <img alt="SHE" src="./assets/vhl_kras_design.gif" width="45%">
+  <img alt="SHE" src="./assets/vhl_kras_design.gif" width="75%">
 </p>
 
 # The Structural History of Eukarya
