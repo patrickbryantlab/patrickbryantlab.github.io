@@ -20,7 +20,7 @@ We work across disease modalities:
 <br>
 <br>
 
-# EvoBind-multimer
+# Molecular Glue Design - bridge two proteins
 EvoBind-multimer designs novel linear and cyclic peptides bridging two target proteins, only from their amino acid sequences. This makes it possible to design peptide molecular glues that create ternary complexes. It is not necessary to specify any target residues within the protein sequence or the length of the peptide (although this is possible). We demonstrate molecular glue design with experimental validation between an E3 ligase and a target protein for the degradation of the "undruggable" oncoproteins KRAS and BRD4.
 
 De novo Design of Macrocyclic Molecular Glues. Andra Brunner, Krzysztof Wierbilowicz, Diandra Daumiller, Daniel Bexell, Kasper Karlsson, Olle Sangfelt, **Patrick Bryant** bioRxiv 2026.08.21.746227; doi: https://doi.org/10.64898/2026.08.21.746227
