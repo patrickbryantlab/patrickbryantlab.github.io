@@ -5,7 +5,7 @@ title: "Software"
 
 **EvoBind-multimer** - design of macrocyclic molecular glues: <https://github.com/patrickbryant1/EvoBind-multimer>
 <p align="center">
-<img src="./assets/vhl_kras_design.gif" width="75%"/>
+<img src="./assets/vhl_kras_design.gif" width="45%"/>
 </p>
 
 **SHE** - The Structural History of Eukarya: <https://she-app.serve.scilifelab.se/>
