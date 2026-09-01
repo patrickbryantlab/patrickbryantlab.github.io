@@ -4,7 +4,7 @@ title: "Software"
 ---
 
 **EvoBind-multimer** - design of macrocyclic molecular glues: <https://github.com/patrickbryant1/EvoBind-multimer>
-<p align="center">
+<p align="left">
 <img src="./assets/vhl_kras_design.gif" width="45%"/>
 </p>
 
