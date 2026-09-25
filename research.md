@@ -81,8 +81,8 @@ doi: https://doi.org/10.1101/2025.06.06.658268
 
 # Inhibitor design
 
-Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P.** Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. **2025**. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413
-[Paper](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
+Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, **Bryant P**. Single-shot design of a cyclic peptide inhibitor of HIV membrane fusion, Antiviral Research, Volume 246, 2026
+[Paper](https://www.sciencedirect.com/science/article/pii/S0166354225002621)
 [Code](https://gitlab.com/patrickbryant1/gp41)
 
 <p align="center">
