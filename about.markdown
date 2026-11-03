@@ -42,3 +42,9 @@ Diandra Daumiller - PhD student
 
 Lidia Gómez Lucas - Postdoc
 <a href="https://se.linkedin.com/in/lidia-gomez-lucas-phd-967a94373"> LinkedIn
+
+
+<img src="./assets/Baptiste.jpeg" width="25%" height="25%"  />
+
+Baptiste Dupont - Research Assistant
+<a href="https://www.linkedin.com/in/baptiste-dupont-ab8209298/?locale=fr"> LinkedIn
